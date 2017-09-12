@@ -1,0 +1,7 @@
+{
+	"name": "c0part",
+	"main": "pupeter.js",
+	"dependencies": {
+		"puppeteer": "^0.10.2"
+	}
+}
